@@ -58,7 +58,7 @@ nav span {
   margin-top: 80px;
 }
 .image-container {
-  display: inline-flex;
+  display: flex;
   width: 1000px;
   justify-content: center;
 }
